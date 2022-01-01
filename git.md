@@ -9,6 +9,7 @@
 4. <code>git remote add origin https://github.com/yourusername/your-repo-name.git</code>
 
 Загрузка проекта с нуля требует git pull origin master .
+
 5. <code>git pull origin master</code>
 
 6. <code>git push origin master</code>
