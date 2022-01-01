@@ -2,7 +2,7 @@
 
 1. <code>git init</code>
 
-2. <code>git add .<code>
+2. <code>git add .</code>
 
 3. <code>git commit -m "Add all my files"</code>
 
