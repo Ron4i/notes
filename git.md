@@ -1,10 +1,10 @@
 # Создание git проекта и выгрузка его на GitHub
 
-1. '''git init'''
+1. <code>git init</code>
 
-2. '''git add .'''
+2. <code>git add .'''
 
-3. '''git commit -m "Add all my files"'''
+3. ```git commit -m "Add all my files"```
 
 4. '''git remote add origin https://github.com/yourusername/your-repo-name.git'''
 
