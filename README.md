@@ -6,3 +6,4 @@
 1. [Автоматизация верстки реализованная с помощью task runner gulp.](https://github.com/Ron4i/template).
 2. [Проверка валидности HTML страницы W3ORG](https://validator.w3.org).
 3. [Генерация дерева HTML страницы, проверка верстки по БЭМ.](https://yoksel.github.io/html-tree/)
+4. [Git репозиторий и загрузка проекта на GitHub.](https://github.com/Ron4i/notes/blob/main/git.md)
