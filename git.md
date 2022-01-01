@@ -4,7 +4,7 @@
 
 2. <code>git add .<code>
 
-3. ```git commit -m "Add all my files"```
+3. `git commit -m "Add all my files"`
 
 4. '''git remote add origin https://github.com/yourusername/your-repo-name.git'''
 
