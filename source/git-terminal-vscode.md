@@ -4,7 +4,7 @@
 
 1. Устанавливаем Git по [ссылке](https://git-scm.com/download/win);
 2. Открываем Visual Studio Code и нажимаем сочетание клавиш `Ctrl` + <code>`</code>;
-![Изображение открывшегося терминала в VSCode](/source/img/terminal.png)
+![Изображение открывшегося терминала в VSCode](/source/img/terminal.PNG)
 3. Открываем командную строку сочетанием клавиш `Ctrl` + `Shift` + `P`;
 4. Выбираем профиль по умолчанию - Select Default Profile;
 5. Выбираем в опциях Git Bush;
